@@ -1,4 +1,4 @@
-![Header](https://github.com/AlekseyVolovik/AlekseyVolovik/blob/main/assets/cover.screen.png)
+![Header](https://github.com/AlekseyVolovik/AlekseyVolovik/blob/main/assets/cover.png)
 
 ## **I'm beginner web-developer**
 
