@@ -13,6 +13,6 @@ ___
 ### Follow me
 ![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)
-![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter)](https://t.me/AlekseyVolovik)
 
 _____
