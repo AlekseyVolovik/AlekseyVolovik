@@ -1,6 +1,6 @@
 ![Header](https://github.com/AlekseyVolovik/AlekseyVolovik/blob/main/assets/cover.png)
 
-## **I'm beginner web-developer**
+## **I'm beginner Front-end Developer**
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML)
