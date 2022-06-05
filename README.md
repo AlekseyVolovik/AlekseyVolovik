@@ -3,7 +3,7 @@
 ## **I'm Front-end Developer**
 
 ### Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML)
+![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=for-the-badge&logo=jQuery)
