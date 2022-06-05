@@ -11,7 +11,7 @@
 ![Sass](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass)
 ![Gulp](https://img.shields.io/badge/-GULP-black?style=for-the-badge&logo=gulp)
 ![GitHub](https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github)
-![Photoshop](https://img.shields.io/badge/-PHOTOSHOP-black?style=for-the-badge&logo=photoshop)
+![Adobe Photoshop](https://img.shields.io/badge/-ADOBE PHOTOSHOP-black?style=for-the-badge&logo=adobe photoshop)
 ![Figma](https://img.shields.io/badge/-FIGMA-black?style=for-the-badge&logo=figma)
 ![VScode](https://img.shields.io/badge/-VSCODE-black?style=for-the-badge&logo=vscode)
 
