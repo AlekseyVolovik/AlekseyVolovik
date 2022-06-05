@@ -9,6 +9,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=for-the-badge&logo=jQuery)
 ![Less](https://img.shields.io/badge/-LESS-black?style=for-the-badge&logo=less)
 ![Sass](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-black?style=for-the-badge&logo=bootstrap)
 ![Gulp](https://img.shields.io/badge/-GULP-black?style=for-the-badge&logo=gulp)
 ![GitHub](https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github)
 ![Photoshop](https://img.shields.io/badge/-PHOTOSHOP-black?style=for-the-badge&logo=photoshop)
