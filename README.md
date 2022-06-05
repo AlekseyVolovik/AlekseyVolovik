@@ -9,6 +9,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=for-the-badge&logo=jQuery)
 ![Less](https://img.shields.io/badge/-LESS-black?style=for-the-badge&logo=less)
 ![Sass](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass)
+![Gulp](https://img.shields.io/badge/-GULP-black?style=for-the-badge&logo=gulp)
 
 _____
 
