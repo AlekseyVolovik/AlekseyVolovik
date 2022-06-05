@@ -10,6 +10,7 @@
 ![Less](https://img.shields.io/badge/-LESS-black?style=for-the-badge&logo=less)
 ![Sass](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass)
 ![Gulp](https://img.shields.io/badge/-GULP-black?style=for-the-badge&logo=gulp)
+![GitHub](https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github)
 
 _____
 
