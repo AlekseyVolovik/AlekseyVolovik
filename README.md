@@ -1,6 +1,6 @@
 ![Header](https://github.com/AlekseyVolovik/AlekseyVolovik/blob/main/assets/cover.png)
 
-## **I'm beginner Front-end Developer**
+## **I'm Front-end Developer**
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML)
@@ -8,6 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=for-the-badge&logo=jQuery)
 ![Less](https://img.shields.io/badge/-LESS-black?style=for-the-badge&logo=less)
+![Sass](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass)
 
 _____
 
